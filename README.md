@@ -1,2 +1,1 @@
-# rsschool-cv
-rss cv task
+https://NovikovStan.github.io/rsschool-cv/cv
