@@ -29,7 +29,15 @@ I was fond of programming from my young age but kept using my programming skills
 My [repository](https://github.com/NovikovStan) contains projects I've been working on.
 
 ```javascript
-if()
+
+function launchAll(launchMissile) {
+  for(let i = 0; i < 5; i++) {
+    setTimeout(function() {
+      launchMissile(i);
+    }, i * 1000);
+  }
+}
+
 ```
 
 ---
