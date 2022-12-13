@@ -57,4 +57,4 @@ I've been studying at GeekBrains(Front-end profession) and GPB Front-end school.
 
 ### English level:
 
-My English level ranges from B1 to B2 for written English and from A2 to B1 for spoken one. I can read and write well enough, but had not enough verbal practice. 
+My English level ranges from B1 to B2 for written English and from A2 to B1 for spoken one. I can read and write well enough, but had not enough verbal practice.
