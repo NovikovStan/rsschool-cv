@@ -19,6 +19,11 @@
     padding: 20px;
     text-align: center;
   }
+
+  header img {
+    width: 100px;
+    height: 100px;
+  }
   
   main {
     display: flex;
@@ -29,18 +34,26 @@
     height: 608px;
     margin: 0 20px 20px 0;
   
-    border-radius: 20px;
   }
   
   footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin-top: 50px;
+    padding: 20px 100px;
   
     line-height: 50px;
     text-align: center;
     background-color: black;
     color: antiquewhite;
   }
-  
+
+  footer img {
+    width: 100px;
+    height:100px;
+  }
+ 
   section {
     margin: 20px 0;
   }
