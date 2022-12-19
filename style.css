@@ -66,12 +66,20 @@
     text-decoration: none;
     color: rgb(128, 116, 194);
   }
-  
+
   a:visited,
   a:active,
   a:hover {
     color: antiquewhite;
   }
+
+  a.repository,
+  a.repository,
+  a.repository:hover,
+  a.repository:active {
+    color: green;
+  }
+
 
   aside {
    margin-right: 20px;
